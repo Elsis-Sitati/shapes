@@ -38,3 +38,14 @@ div#rectangle {
     margin: auto;
     margin-top: 2%;
 }
+
+div#circle {
+    width: 100px;
+    height: 100px;
+    background: purple;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    margin: auto;
+    margin-top: 2%;
+}
