@@ -30,3 +30,11 @@ div#triangle {
     margin: auto;
     margin-top: 2%;
 }
+
+div#rectangle {
+    height: 100px;
+    background: grey;
+    width: 200px;
+    margin: auto;
+    margin-top: 2%;
+}
